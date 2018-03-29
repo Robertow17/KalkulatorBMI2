@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Kalkulator BMI</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about_me">Kalkulator BMI</string>
+    <string name="title_activity_bmiviewer">Kalkulator BMI</string>
+    <string name="title_activity_bmicounter_other">Kalkulator BMI</string>
+    <string name="title_activity_error_viewer">Kalkulator BMI</string>
+    <string name="something_wrong">Coś poszło nie tak...</string>
+    <string name="write_again">Wpisz dane poprawnie!</string>
+    <string name="opinion_ok">Brawo! Wszystko ok!</string>
+    <string name="yours_bmi">Twoje BMI to:</string>
+    <string name="info_ok">Trzymaj tak dalej!</string>
+    <string name="opinion_fat">Jesteś za gruby/a!</string>
+    <string name="info_stop_eat_too_much">Przestań tyle jeść!</string>
+    <string name="opinion_thin">Jesteś za chudy/a!</string>
+    <string name="info_thin">Musisz jeść więcej</string>
+    <string name="give_weight_kg">Podaj swoją masę: [kg]</string>
+    <string name="change_unit">Zmień jednostki</string>
+    <string name="give_growth_m">Podaj swój wzrost: [m]</string>
+    <string name="count_bmi">LICZ BMI</string>
+    <string name="give_weight_ibs">Podaj swoją masę: [ibs.]</string>
+    <string name="give_growth">Podaj swój wzrost:</string>
+    <string name="ft">ft.</string>
+    <string name="ins">ins.</string>
+    <string name="about_author">O autorze</string>
+    <string name="author_name">ROBERT WATRAL</string>
+    <string name="apologise">Aplikacja nie miała na celu nikogo uraźić, nie bierz do siebie moich docinków.</string>
+    <string name="greetings">Pozdrawiam!</string>
+
+</resources>
